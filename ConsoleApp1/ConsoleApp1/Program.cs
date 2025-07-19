@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-
+//todo list scope, write line simp
 class Program
 {
     static void Main(string[] args)
